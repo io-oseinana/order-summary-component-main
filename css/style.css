@@ -259,7 +259,7 @@ button {
   color: var(--dark--blue);
 }
 
-@media screen and (max-width: 498px) {
+@media screen and (max-width: 31.1rem) {
   body {
     background-image: url("../images/pattern-background-mobile.svg");
   }
